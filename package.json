@@ -12,5 +12,13 @@
     "date-fns": "^2.28.0"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavanya14011995/practise-2a-q1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lavanya14011995/practise-2a-q1/issues"
+  },
+  "homepage": "https://github.com/lavanya14011995/practise-2a-q1#readme",
   "description": ""
 }
